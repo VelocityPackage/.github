@@ -1,5 +1,5 @@
 ## VelocityPackage
 
 
-[![VelocityPackage - Maven Repository]](https://central.velocitypackage.com)
+[VelocityPackage - Maven Repository](https://central.velocitypackage.com)
 
